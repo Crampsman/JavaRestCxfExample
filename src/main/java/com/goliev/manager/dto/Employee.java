@@ -2,6 +2,7 @@ package com.goliev.manager.dto;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
+//26
 @XmlRootElement
 public class Employee {
 
